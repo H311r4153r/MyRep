@@ -1,2 +1,2 @@
 # MyRep
-This is my read me
+This is my dummy repo for educational purposes
